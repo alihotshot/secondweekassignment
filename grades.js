@@ -20,6 +20,6 @@ var gradesFun = function (marks) {
         console.log("".concat(name, "- You Got Grade A - Excellent"));
     }
 };
-// Calling Grades Formula
+// Show Grades
 var showGrades = gradesFun(marks);
 console.log(showGrades);
